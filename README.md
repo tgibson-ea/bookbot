@@ -1,3 +1,3 @@
 # bookbot
 
-New test line in the readme.
+BookBot is my first git project!
